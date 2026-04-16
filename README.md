@@ -34,3 +34,6 @@ pytest
 Sneider Corredor
 
 Trabajo en rama develop
+
+## 🚀 Actualización
+Este proyecto sigue en desarrollo.
